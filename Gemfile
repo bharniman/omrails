@@ -5,6 +5,9 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'simple_form'
 gem 'paperclip', "~> 3.0"
+gem 'faker', '1.1.2'
+gem 'will_paginate', '3.0.3'
+gem 'bootstrap-will_paginate', '0.0.6'
 gem 'aws-sdk'
 
 group :production do
